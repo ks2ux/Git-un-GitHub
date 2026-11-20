@@ -1,2 +1,2 @@
-# Git-un-GitHub
+#mana-pirma-vietne
 Es macos veidot
